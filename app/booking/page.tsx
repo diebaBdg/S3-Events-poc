@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import { Suspense } from "react"
 import Link from "next/link"
 import { ArrowLeft, ArrowRight, Check, Calendar, Users, Wallet, Sparkles } from "lucide-react"
 import { Button } from "@/components/ui/button"
