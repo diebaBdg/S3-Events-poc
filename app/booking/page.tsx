@@ -275,7 +275,7 @@ function BookingForm() {
                 </label>
                 <input
                   type="tel"
-                  placeholder="+221 77 123 45 67"
+                  placeholder="+221 77 206 12 02"
                   value={formData.phone}
                   onChange={(e) => updateFormData("phone", e.target.value)}
                   className="w-full h-14 px-4 rounded-xl border border-border bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-primary"

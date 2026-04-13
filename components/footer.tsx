@@ -39,7 +39,7 @@ export function Footer() {
             <h4 className="text-sm font-semibold uppercase tracking-wider text-background/50 mb-4">Contact</h4>
             <ul className="space-y-3">
               <li className="text-background/70 text-sm">Dakar, Sénégal</li>
-              <li className="text-background/70 text-sm">+221 77 123 45 67</li>
+              <li className="text-background/70 text-sm">+221 77 206 12 02</li>
               <li><a href="mailto:contact@s3events.sn" className="text-background/70 hover:text-background transition-colors text-sm">contact@s3events.sn</a></li>
             </ul>
           </div>

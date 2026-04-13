@@ -150,7 +150,7 @@ export default function ConnexionPage() {
                           setFormData({ ...formData, phone: e.target.value })
                         }
                         className="w-full px-4 py-3 rounded-xl border border-border bg-background text-foreground focus:outline-none focus:ring-2 focus:ring-primary/50"
-                        placeholder="+221 77 123 45 67"
+                        placeholder="+221 77 206 12 02"
                         required
                       />
                     </div>
